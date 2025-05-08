@@ -34,3 +34,4 @@ The difficulties of extreme demons are chosen based on their positions on the [A
 * **Geode's Discord** for answering my stupid questions
 * **AeonAir** for making me do this out of spite in the first place# Grandpa_Demon_Updated
 # Grandpa_Demon_Updated
+# Grandpa_Demon_Updated
