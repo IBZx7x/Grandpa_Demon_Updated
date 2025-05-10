@@ -1,5 +1,7 @@
 Just an update to ItzKiba's Grandpa Demon Mod. I obviously can't upload this to Geode as I don't have ItzKiba's approval. Therefore, you have to set this up for your specific platform!
 
+WARNING: YOU NEED EXPERIENCE WITH THE COMMAND LINE!
+
 If you know how to use Github & Cmake, you can make the .geode file. ( Linux not working rn :( )
 However, you can run "geode build" or "cmake" commands in a Windows Virtual Machine, then move those files into your Linux distro.
 
