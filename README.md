@@ -2,7 +2,8 @@ Just an update to ItzKiba's Grandpa Demon Mod. I obviously can't upload this to 
 
 WARNING: YOU NEED EXPERIENCE WITH THE COMMAND LINE!
 
-If you know how to use Github & Cmake, you can make the .geode file. ( Linux not working rn :( )
+If you know how to use Github & Cmake, you can make the .geode file. [ Linux not working rn :( ]
+
 However, you can run all the geode commands in a Windows Virtual Machine, then move those files into your Linux distro.
 
 More information can be found here: https://docs.geode-sdk.org/getting-started/prerequisites
